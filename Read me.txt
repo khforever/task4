@@ -1,0 +1,9 @@
+
+
+$_GET		form1
+$_POST		form2
+$_SERVER	form3
+$_REQUEST	form4
+$_FILES		form5
+$_SESSION	session
+$_COOKIE	cookie
